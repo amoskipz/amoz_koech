@@ -14,7 +14,7 @@ export class ExperienceComponent implements OnInit {
         role: "Software Development",
         company: "Moringa School",
         color: "#3781c2",
-        companylogo: "https://drive.google.com/file/d/19CQf37Y7Hxqjxt9_m1xbF3w64z7bQPID/view?usp=sharing",
+        companylogo: "https://drive.google.com/file/d/1FpAG1TjhJv2-b31nHhzk5isjo-UzWyBe/view?usp=sharing",
         date: "November 2020 - May 2021",
         
         desc: "Software Development Student",

@@ -35,7 +35,7 @@ export class HeaderComponent implements OnInit {
   greeting= {
     username: "Kiprotich Amos Koech ",
     title: "Hi all, I'm Kiprotich Amos Koech",
-    subTitle: "A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks.",
+    subTitle: "A passionate Software Developer 🚀 having an experience on Penetration Testing, Systems and Network administration, building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks.",
     resumeLink: "https://drive.google.com/file/d/1E5M61t8t0vK68Rglnf8x_Iqahp3wKDM5/view?usp=sharing"
   }
 

@@ -40,7 +40,7 @@ export class ExperienceComponent implements OnInit {
           role: "GT-Systems Administrator ",
           company: "Kenya Education Network",
           color: "#55198b",
-          companylogo: "assets/images/kenet.jpeg",
+          companylogo: "assets/images/kenet2.png",
           date: "November 2020 – To Date",
           desc: "General systems administration support & NOC when on duty",
         },  
